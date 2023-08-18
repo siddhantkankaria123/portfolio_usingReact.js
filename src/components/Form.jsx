@@ -21,7 +21,10 @@ function Form() {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    const res = await axios.post(process.env.REACT_APP_BACKEND_URL, inputText);
+    const res = await axios.post(
+      `${process.env.REACT_APP_BACKEND_URL}api/contact`,
+      inputText
+    );
     // console.log(res);
     navigate("/");
   };

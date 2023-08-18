@@ -19,7 +19,7 @@ function AboutContent() {
             <div className="col-lg-6">
               <p className="lead about-detail fs-2">
                 I, am Siddhant Kankaria from Bhilwara,Rajasthan.I am final year
-                pass out student I am interested in Web Development. My hobbies
+                pass out student. I am interested in Web Development. My hobbies
                 are listening songs, playing outdoor games.
               </p>
               <div className="about-button">

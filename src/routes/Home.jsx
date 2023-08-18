@@ -7,7 +7,6 @@ const Home = () => {
     <div>
       <Navbar></Navbar>
       <Hero></Hero>
-      {/* <Footer></Footer> */}
     </div>
   );
 };

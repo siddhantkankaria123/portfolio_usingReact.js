@@ -11,14 +11,14 @@ function WorkCard(props) {
         <p className="detail">{props.detail}</p>
         <div className="buttons">
           <div>
-            <Link to={props.viewLink} target="blank" className="button">
+            <a href={props.viewLink} target="blank" className="button">
               View
-            </Link>
+            </a>
           </div>
           <div>
-            <Link to={props.sourceLink} target="blank" className="button">
+            <a href={props.sourceLink} target="blank" className="button">
               source
-            </Link>
+            </a>
           </div>
         </div>
       </div>

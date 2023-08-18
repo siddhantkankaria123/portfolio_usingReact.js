@@ -36,7 +36,7 @@ function Work() {
         <WorkCard
           src={weather}
           detail="  Developed a responsive weather application. Integrated a weather API to fetch real-time weather data for any city entered by the user, providing accurate and upto date weather information."
-          viewLink=" https://siddhantkankaria123.github.io/Weatherforecast_app/ "
+          viewLink="https://siddhantkankaria123.github.io/Weatherforecast_app/ "
           sourceLink="https://github.com/siddhantkankaria123/Weatherforecast_app"
         ></WorkCard>
         <WorkCard

@@ -1,0 +1,36 @@
+.about-detail {
+  color: white;
+  font-weight: 600;
+  line-height: 2;
+  letter-spacing: 2px;
+}
+
+.about-button {
+  display: flex;
+  font-size: 1.5rem;
+  color: white;
+  gap: 2rem;
+  margin-top: 2%;
+}
+
+.aboutButtons {
+  text-decoration: none;
+  background-color: black;
+  padding: 1rem;
+  color: white;
+  border-radius: 5px;
+  letter-spacing: 1px;
+}
+.aboutButtons:hover {
+  background-color: yellow;
+  color: black;
+  transition: all ease 1s;
+}
+.about-image {
+  margin: auto;
+}
+@media (max-width: 436px) {
+  .about-button {
+    margin-top: 6%;
+  }
+}

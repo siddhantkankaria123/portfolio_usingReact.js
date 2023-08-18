@@ -36,13 +36,13 @@ function Work() {
         <WorkCard
           src={weather}
           detail="  Developed a responsive weather application. Integrated a weather API to fetch real-time weather data for any city entered by the user, providing accurate and upto date weather information."
-          viewLink="https://siddhantkankaria123.github.io/QuizWebsite/"
-          sourceLink="https://github.com/siddhantkankaria123/to_do_list"
+          viewLink=" https://siddhantkankaria123.github.io/Weatherforecast_app/ "
+          sourceLink="https://github.com/siddhantkankaria123/Weatherforecast_app"
         ></WorkCard>
         <WorkCard
           src={Quiz}
           detail="Developed a Responsive Quiz Website.Intialize a Five minute timer utilizing JavaScript to restrict users and add a time-bound challenge. Random question generation using JavaScript's Random Number functionality "
-          viewLink="https://to-do-list-siddhant.onrender.com/"
+          viewLink="https://siddhantkankaria123.github.io/QuizWebsite/"
           sourceLink="https://github.com/siddhantkankaria123/QuizWebsite"
         ></WorkCard>
         <WorkCard
